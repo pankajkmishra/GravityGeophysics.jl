@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Pankaj K Mishra & Contributors
+Copyright (c) 2025 JuliaGeophysics & Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
